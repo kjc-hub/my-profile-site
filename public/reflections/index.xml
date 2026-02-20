@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on [Your Name] | Social Work Portfolio</title>
+    <link>http://localhost:1313/reflections/</link>
+    <description>Recent content in Reflections on [Your Name] | Social Work Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2026 14:15:55 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BASW CPD Reflection</title>
+      <link>http://localhost:1313/reflections/basw-cpd/</link>
+      <pubDate>Tue, 27 Jan 2026 14:15:55 +0300</pubDate>
+      <guid>http://localhost:1313/reflections/basw-cpd/</guid>
+      <description>&lt;p&gt;tags: []&#xA;&lt;em&gt;Placeholder for BASW Continuing Professional Development reflection to be added in approximately 18 months.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This reflection will detail my CPD activities, learning outcomes, and application to practice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First MA Placement Reflection</title>
+      <link>http://localhost:1313/reflections/first-placement/</link>
+      <pubDate>Tue, 27 Jan 2026 14:15:53 +0300</pubDate>
+      <guid>http://localhost:1313/reflections/first-placement/</guid>
+      <description>&lt;p&gt;tags: []&#xA;&lt;em&gt;Placeholder for reflection on first MA Social Work placement to be added in approximately 18 months.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This reflection will document my experiences, learning outcomes, and professional growth during my first MA placement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

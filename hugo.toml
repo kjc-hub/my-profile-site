@@ -1,0 +1,77 @@
+baseURL = 'https://yourname.com/'
+languageCode = 'en-us'
+title = '[Your Name] | Social Work Portfolio'
+theme = 'hugo-profile'
+
+# Site parameters
+[params]
+  avatar = 'images/profile.jpg'
+  logo = 'images/logo.png'
+  favicon = 'images/favicon.ico'
+  description = 'Professional portfolio of [Your Name], MA Social Work Candidate'
+  
+  # Social links
+  [[params.social]]
+    icon = 'fa-linkedin'
+    title = 'LinkedIn'
+    url = 'https://linkedin.com/in/yourusername'
+  
+  [[params.social]]
+    icon = 'fa-envelope'
+    title = 'Email'
+    url = 'mailto:you@example.com'
+
+# Main Navigation - Current Content
+[[menu.main]]
+  identifier = 'about'
+  name = 'Cover Letter'
+  url = '/about/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'cv'
+  name = 'Curriculum Vitae'
+  url = '/cv/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact/'
+  weight = 30
+
+# Future Content Sections (will be unhidden as completed)
+[[menu.main]]
+  identifier = 'letters'
+  name = 'References & Letters'
+  url = '/letters/'
+  weight = 40
+  hidden = true
+
+[[menu.main]]
+  identifier = 'reflections'
+  name = 'Professional Reflections'
+  url = '/reflections/'
+  weight = 50
+  hidden = true
+
+[[menu.main]]
+  identifier = 'academic'
+  name = 'Academic Projects'
+  url = '/academic/'
+  weight = 60
+  hidden = true
+
+[[menu.main]]
+  identifier = 'placements'
+  name = 'Placement Experiences'
+  url = '/placements/'
+  weight = 70
+  hidden = true
+
+# Blog section from theme
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Blog & Updates'
+  url = '/blogs/'
+  weight = 80

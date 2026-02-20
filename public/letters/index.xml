@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letters on [Your Name] | Social Work Portfolio</title>
+    <link>http://localhost:1313/letters/</link>
+    <description>Recent content in Letters on [Your Name] | Social Work Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2026 14:01:53 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/letters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Reference Letter</title>
+      <link>http://localhost:1313/letters/academic-reference/</link>
+      <pubDate>Thu, 19 Feb 2026 14:01:53 +0300</pubDate>
+      <guid>http://localhost:1313/letters/academic-reference/</guid>
+      <description>&lt;h3 id=&#34;download-the-academic-reference-letter&#34;&gt;Download the Academic Reference Letter&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Download Academic Reference Letter] (./assets/References/Ken_Jomo_Chege_Academic_Reference.pdf)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Professional Recommendation</title>
+      <link>http://localhost:1313/letters/mentor-recommendation/</link>
+      <pubDate>Tue, 27 Jan 2026 14:15:53 +0300</pubDate>
+      <guid>http://localhost:1313/letters/mentor-recommendation/</guid>
+      <description>&lt;p&gt;tags: []&#xA;&lt;em&gt;Placeholder for professional recommendation letter to be added in approximately 6 months.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This recommendation will come from a professional mentor in the social work field, detailing my practical skills and professional development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

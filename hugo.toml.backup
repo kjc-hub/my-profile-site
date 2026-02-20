@@ -1,0 +1,45 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Personal Portfolio'
+theme = 'hugo-profile'
+
+# Basic site parameters
+[params]
+  logo = 'images/logo.png'
+  favicon = 'images/favicon.ico'
+  description = 'Welcome to my personal portfolio website'
+  
+  # Social links (customize these later)
+  [[params.social]]
+    icon = 'fa-github'
+    title = 'GitHub'
+    url = 'https://github.com/yourusername'
+  
+  [[params.social]]
+    icon = 'fa-linkedin'
+    title = 'LinkedIn'
+    url = 'https://linkedin.com/in/yourusername'
+  
+  [[params.social]]
+    icon = 'fa-envelope'
+    title = 'Email'
+    url = 'mailto:you@example.com'
+
+# Menu configuration
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'projects'
+  name = 'Projects'
+  url = '/projects/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact/'
+  weight = 3
